@@ -2,4 +2,5 @@
 dummy repo to test integration with Jira
 
 ## Issues addressed
+- ewg-1
 - ewg-3
